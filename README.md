@@ -1,6 +1,6 @@
 # Formation Api 
 
-## Pour recuperer tous les participant :
+## Pour recuperer tous les participants :
  - GET   /participants
 
 ## Pour recuperer un participant par son ID :
